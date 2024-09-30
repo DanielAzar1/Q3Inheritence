@@ -2,7 +2,7 @@ public class Triangle extends Shape
 {
     @Override
     public void calculatePerimeter(int x, int y) {
-        System.out.println("perimetr");
+        System.out.println("perimeter");
     }
 
     @Override
